@@ -1,5 +1,5 @@
-# pulsifi-data-eng-assessment
+![Alt Text](./src/pulsifi.png){ width=100px height=100px align=right }
 
-Welcome to Pulsifi! 
-
-This is your first step to becoming a Pulsifian! <3
+# Pulsifi Data Engineering Assignment
+### Brief
+Pulsifi 
