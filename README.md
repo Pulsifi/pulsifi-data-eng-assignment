@@ -7,7 +7,7 @@ Pulsifi's application helps organizations to improve talent acquisition and mana
 Within Pulsifi data ecosystem, we have data sources as follows:
 * database, such as MySQL, PostgreSQL, MongoDB, is used serve the Pulsifi Application
 * third-party software, such as [Zendesk](https://www.zendesk.com/?ref=431) and [SurveySparrow](https://surveysparrow.com/), is integrated within the Pulsifi Application
-* Google Analytics and Google Tag Manager, is used to track user's behavior and journey within Pulsifi APplication
+* Google Analytics and Google Tag Manager, is used to track user's behavior and journey within Pulsifi Application
 
 
 ### Objective
